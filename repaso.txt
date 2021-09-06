@@ -10,4 +10,28 @@ Trabajando sobre Ruby
 8) Ejemplos de programacion orientada a objetos
 9) Trabajar administradores de objetos.
 
+===================================================
+0) 0) solicitar datos y imprimir datos en pantalla
+===================================================
 
+Ruby es un lenguaje de programacion orientados a objetos,
+que tiene como prioridad que el lenguaje sea semantico.
+Semantico: Significa que la sintaxis es mas parecida al lenguaje
+natural humano.
+
+Framework: Es conjunto de librerias disenadas para la realizacion de un fin especifico
+utilizando un lenguaje base.
+
+Framework: Sinatra y ruby on rails. se Desarrollaron entornos de trabajo para disenar aplicaciones.
+
+puts = Es un comando para imprimir en pantalla
+tipos de datos
+string = cadena
+boolean = true o false
+integer = El conjunto de los enteros
+float = El conjunto de valores decimales
+
+===========================================
+2) Primitivas, Condicional, bucles(iteradores)
+- condicionales si si entonces 
+- iteradores o bucles para mientras 
