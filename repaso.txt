@@ -1,0 +1,13 @@
+Trabajando sobre Ruby
+0) solicitar datos y imprimir datos en pantalla
+1) Variable
+2) Primitivas, Condicional, bucles(iteradores)
+3) Funciones (Metodos en POO)
+4) Algunos metodos que se trabajan en Ruby
+5) Arreglos y sus metodos (crear, como acceder y como operar sobre ellos)
+6) Hash y sus metodos (crear, como acceder y como operar sobre ellos)
+7) Programacion orientada a objectos Introduccion de terminos conceptuales
+8) Ejemplos de programacion orientada a objetos
+9) Trabajar administradores de objetos.
+
+
